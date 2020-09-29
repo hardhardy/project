@@ -1,0 +1,39 @@
+[33med372d3[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m HEAD@{0}: commit: new feature
+[33mf8f802e[m[33m ([m[1;33mtag: 0.0.1[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{1}: checkout: moving from master to dev
+[33mf8f802e[m[33m ([m[1;33mtag: 0.0.1[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{2}: merge first-feature: Merge made by the 'recursive' strategy.
+[33m3f37e4b[m HEAD@{3}: merge branch-2-1: Merge made by the 'recursive' strategy.
+[33md71ff3c[m HEAD@{4}: merge branch-1: Merge made by the 'recursive' strategy.
+[33m502a5fb[m HEAD@{5}: commit: update feature version
+[33m5231f01[m HEAD@{6}: commit: new feature version
+[33m9fd6569[m HEAD@{7}: checkout: moving from branch-1 to master
+[33md222c31[m HEAD@{8}: checkout: moving from branch-2-1 to branch-1
+[33m046d1b1[m HEAD@{9}: rebase (finish): returning to refs/heads/branch-2-1
+[33m046d1b1[m HEAD@{10}: rebase (pick): change file-2-1.txt
+[33md222c31[m HEAD@{11}: rebase (start): checkout branch-1
+[33m3034322[m HEAD@{12}: checkout: moving from branch-2 to branch-2-1
+[33md222c31[m HEAD@{13}: checkout: moving from branch-1 to branch-2
+[33md222c31[m HEAD@{14}: checkout: moving from branch-2-1 to branch-1
+[33m3034322[m HEAD@{15}: commit: change file-2-1.txt
+[33m9fd6569[m HEAD@{16}: checkout: moving from branch-1 to branch-2-1
+[33md222c31[m HEAD@{17}: commit: change file-1.txt
+[33m9fd6569[m HEAD@{18}: checkout: moving from master to branch-1
+[33m9fd6569[m HEAD@{19}: checkout: moving from first-feature to master
+[33m786b6cb[m HEAD@{20}: rebase (finish): returning to refs/heads/first-feature
+[33m786b6cb[m HEAD@{21}: rebase (pick): first feature code
+[33m9fd6569[m HEAD@{22}: rebase (start): checkout master
+[33mb3343fc[m HEAD@{23}: checkout: moving from master to first-feature
+[33m9fd6569[m HEAD@{24}: pull: Merge made by the 'recursive' strategy.
+[33m2671306[m HEAD@{25}: merge feature: Fast-forward
+[33m380bca7[m HEAD@{26}: checkout: moving from first-feature to master
+[33mb3343fc[m HEAD@{27}: commit: first feature code
+[33m380bca7[m HEAD@{28}: checkout: moving from master to first-feature
+[33m380bca7[m HEAD@{29}: checkout: moving from feature to master
+[33m2671306[m HEAD@{30}: commit: new code feature
+[33m380bca7[m HEAD@{31}: checkout: moving from master to feature
+[33m380bca7[m HEAD@{32}: merge dev: Fast-forward
+[33me992aa0[m HEAD@{33}: checkout: moving from dev-kraken to master
+[33me992aa0[m HEAD@{34}: checkout: moving from dev to dev-kraken
+[33m380bca7[m HEAD@{35}: pull: Fast-forward
+[33m8badb17[m HEAD@{36}: commit: first dev commit
+[33me992aa0[m HEAD@{37}: checkout: moving from master to dev
+[33me992aa0[m HEAD@{38}: clone: from github.com:hardhardy/project.git
